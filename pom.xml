@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>factory-method-pattern</module>
+        <module>abstract-factory-pattern</module>
     </modules>
 
     <version>1.0-SNAPSHOT</version>
